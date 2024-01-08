@@ -1,0 +1,28 @@
+.banner {
+  text-align: center;
+  background-color: #FFF;
+  margin: 50px 140px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 1320px;
+  height: 600px;
+  background-image: url('../Images/Banner\ Image.png');
+  border-radius: 16px;
+}
+
+.greeting {
+  color: #FFF;
+  font-size: 32px;
+  font-weight: 400;
+  padding: 180px 530px 0px;
+}
+
+.celebration {
+  color: #FFF;
+  font-size: 72px;
+  font-weight: 900;
+  padding: 0px 340px 260px;
+  width: 632px;
+  height: 190px;
+}
