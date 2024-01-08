@@ -1,3 +1,4 @@
+/* banner section styles */
 .banner {
   text-align: center;
   background-color: #FFF;
@@ -25,4 +26,32 @@
   padding: 0px 340px 260px;
   width: 632px;
   height: 190px;
+}
+
+/* offer section styles */
+.offer {
+  text-align: center;
+  font-style: normal;
+}
+
+.off {
+  color: #F00;
+  font-size: 88px;
+  font-weight: 700;
+  /* font-style: normal; */
+}
+
+.holiday {
+  color: #F00;
+  font-size: 24px;
+}
+
+.category {
+  color: #070211;
+  font-size: 48px;
+}
+
+.image {
+  width: 820px;
+  height: 520px;
 }
