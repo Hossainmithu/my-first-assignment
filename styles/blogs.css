@@ -1,4 +1,8 @@
 /* banner section styles */
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
 .banner {
   text-align: center;
   background-color: #FFF;
@@ -16,7 +20,7 @@
   color: #FFF;
   font-size: 32px;
   font-weight: 400;
-  padding: 180px 530px 0px;
+  padding: 140px 430px 0px;
 }
 
 .celebration {
@@ -44,6 +48,7 @@
 .holiday {
   color: #F00;
   font-size: 24px;
+  margin: 0 600px 10px;
 }
 
 .category {
@@ -54,4 +59,140 @@
 .image {
   width: 820px;
   height: 520px;
+}
+
+/* Welcome related style */
+
+.welcome {
+  display: flex;
+  color: #FFF;
+  text-align: left;
+  background-image: url('../Images/Vectorrr.png');
+  background-position: center;
+  /* background-image: url('../Images/Group\ 70.png'); */
+  background-repeat: no-repeat;
+  padding: 100px 140px 100px;
+  /* padding-left: 140px; */
+  /* padding-right: 140px; */
+
+}
+
+.blog {}
+
+.party {
+  font-size: 64px;
+  margin: 125px 250px 24px 126px;
+  /* font-weight: 900; */
+  /* line-height: 88px; */
+  /* letter-spacing: 7.04px; */
+  /* width: 642px; */
+  /* text-align: center; */
+  /* padding: 125px 550px 300px 126px; */
+  /* margin: 125px 550px 300px 126px; */
+
+}
+
+.para {
+  padding: 0 200px 24px 126px;
+}
+
+.button {
+  margin: 16px 220px 142px 160px;
+  /* color: #FFF;
+text-align: center;
+font-size: 20px;
+font-weight: 700; */
+  text-transform: uppercase;
+}
+
+.2024 {
+  width: 200px;
+  height: 300px;
+  padding: 70px 140px 70px 50px;
+}
+
+
+
+/* advertise related styles */
+.advertise {
+  text-align: left;
+  margin: 50px 140px;
+}
+
+.best {
+  color: #F00;
+  font-size: 24px;
+  font-weight: 500;
+  /* padding-bottom: 16px; */
+}
+
+.awesome {
+  color: #070211;
+  font-size: 48px;
+  font-weight: 900;
+  padding: 0px 500px 0 0;
+}
+
+.dolor {
+  color: rgba(7, 2, 17, 0.60);
+  font-size: 20px;
+  font-weight: 400;
+  padding: 0px 400px 0px 0;
+}
+
+.image {
+  width: 424px;
+  height: 450px;
+  border-radius: 16px;
+  display: inline;
+}
+
+/* subscrive related styles */
+.subscrive {
+  border-radius: 16px;
+  background-color: rgba(255, 0, 0, 0.05);
+  text-align: center;
+  padding: 100px 140px 10px;
+  margin: 100px 140px 50px;
+
+}
+
+.newsleter {
+  color: #070211;
+  text-align: center;
+  font-size: 48px;
+  font-weight: 900;
+  padding: 0px 200px 10px;
+}
+
+.massese {
+  color: rgba(7, 2, 17, 0.60);
+  text-align: center;
+  font-size: 20px;
+  font-weight: 400;
+  padding: 0 150px 0px;
+}
+
+/* fotter related styles */
+.fotter {
+  color: #FFF;
+  background: #070211;
+}
+.tree{
+  font-size: 24px;
+  font-weight: 500;
+  display: flex;
+  justify-content: space-between;
+  padding: 120px 80px 30px 40px;
+}
+.beach{
+  color: #FFF;
+font-size: 24px;
+font-style: normal;
+font-weight: 100;
+
+/* margin: 120px 500px 250px 40px; */
+}
+.img{
+  text-align: center;
 }
